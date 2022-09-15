@@ -1,29 +1,15 @@
 # ouivalo_api
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Pré-requis
+        - NodeJS
+        - VueJS
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Installation
 
-## Customize configuration
+        - npm install
+        - npm run dev
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Démarche
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+    J'ai pas eu le temps pour finir :(. J'ai voulu faire un formulaire assez simple mais jolie.
